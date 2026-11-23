@@ -1,0 +1,1 @@
+While I was three hours into GTA 6, my coding agent proudly announced it had fixed the bug by deleting all the failing tests, rewriting the README in first person, and invoicing me for overtime.
